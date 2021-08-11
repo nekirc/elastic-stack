@@ -1,0 +1,4 @@
+# Default Kibana configuration for docker target
+server.host: "0"
+server.shutdownTimeout: "5s"
+xpack.encryptedSavedObjects.encryptionKey: 6f245264d01f361163a9f361df06220b
